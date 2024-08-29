@@ -1,0 +1,28 @@
+sudo curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
+   15  nvm install 16
+   37  cd angular-calci/
+   38  ng build
+   39  npm install -g @angular/cli@16
+   40  ng build
+   41  nvm install 18
+   42  ng build
+   43  npm install -g @angular/cli@17
+   44  ng build
+   45  sudo npm install
+   46  ls
+   47  node =-v
+   48  npm 
+   49  npm install
+   50  ls
+   66  ng build
+   67  ls
+   68  cd dist/
+   69  ls
+   70  sudo yum -y install httpd
+   71  sudo mv angularCalc/ /var/www/html/
+   72  sudo vi /etc/httpd/conf/httpd.conf
+   73  sudo systemctl stop nginx.service 
+   74  sudo systemctl restart httpd
+   75  node -v
+   76  history
+[ec2-user@ip-172-31-42-12 dist]$ 
